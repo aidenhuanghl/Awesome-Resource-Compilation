@@ -1,9 +1,4 @@
-#无法复制单行
-#修改规格栏可以为空
-#支持在规格栏内输入10 26 8 来查询轴承,但是规格栏不能为空
 
-#支持回车键查询
-#可按输入内容进行查询，并支持多个条件查询
 import sqlite3
 import tkinter as tk
 from tkinter import ttk
